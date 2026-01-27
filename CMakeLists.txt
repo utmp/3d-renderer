@@ -21,6 +21,8 @@ set ( EXTERNAL
 
 set ( SOURCE_ONE_WEEKEND
   src/InOneWeekend/main.cc
+  src/InOneWeekend/vec3.h
+  src/InOneWeekend/color.h
 )
 
 include_directories(src)
