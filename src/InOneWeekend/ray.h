@@ -3,6 +3,7 @@
 
 #include "vec3.h"
 
+
 class ray {
   public:
     ray() {}
@@ -20,5 +21,6 @@ class ray {
     point3 orig;
     vec3 dir;
 };
+
 
 #endif
